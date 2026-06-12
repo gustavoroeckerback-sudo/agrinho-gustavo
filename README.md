@@ -1,2 +1,3 @@
 # agrinho-gustavo
-Peça digital para venda de tratores. Tem busca, filtros e mais de mil modelos. Design verde e amarelo, fácil de usar no celular. Mostra preço, potência e ficha técnica de cada máquina. Tem formulário para pedir cotação com benefícios como resposta rápida e garantia longa.
+Catálogo online interativo de tratores agrícolas com mais de mil modelos. Permite busca por nome, código ou potência e filtros por categoria, preço e ordenação. Design responsivo nas cores verde e amarelo, adaptado para celular e computador. Cada máquina exibe potência, valor estimado e ficha técnica completa em janela flutuante. Inclui seção de cotação com formulário, resposta em até 24 horas, financiamento parcelado e garantia estendida. Navegação com menu fixo, botão de retorno ao topo e links para contato direto com central de vendas e concessionárias. Vitrine digital profissional focada em conversão de leads no agronegócio.
+
